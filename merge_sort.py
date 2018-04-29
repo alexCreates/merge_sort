@@ -1,4 +1,3 @@
-
 import random
 global ten_thousand_list
 ten_thousand_list = []
