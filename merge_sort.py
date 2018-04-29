@@ -1,7 +1,7 @@
 import random
 global ten_thousand_list
 ten_thousand_list = []
-# create a list of ten thousand random numbers between -10,000 and
+# create a list of ten thousand random numbers between -10,000 and 10,000
 for i in range(10001):
     num = random.randint(-10000,10000)
     ten_thousand_list.append(num)
